@@ -59,7 +59,8 @@ picture {
 
 /* Inherit fonts for inputs and buttons */
 input, button,
-textarea, select {
+textarea, select,
+address {
   font: inherit;
 }
 
